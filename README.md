@@ -10,7 +10,7 @@ Comenzar con Animaciones Personalizadas... Ese gran hito que todos los developer
 Es por eso que, tomando como inspiración a:
 
 - [Thorn Technologies](https://www.thorntech.com/2016/02/ios-tutorial-close-modal-dragging/)
-- [Raywenderlich] (https://www.raywenderlich.com/110536/custom-uiviewcontroller-transitions)
+- [Raywenderlich](https://www.raywenderlich.com/110536/custom-uiviewcontroller-transitions)
 
 Comencé este "animado" camino.
 
